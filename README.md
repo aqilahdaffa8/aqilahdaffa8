@@ -15,23 +15,15 @@
   <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=dart,js,ts" alt="Languages" />
   
-  <br/><br/>
-  
   <p><b>Frontend</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" alt="Frontend" />
-  
-  <br/><br/>
   
   <p><b>Backend</b></p>
   <img src="https://skillicons.dev/icons?i=supabase,firebase" alt="Backend" />
   
-  <br/><br/>
-  
   <p><b>Database</b></p>
   <!-- Menambahkan PostgreSQL karena Supabase & Neon.tech menggunakan ini -->
   <img src="https://skillicons.dev/icons?i=postgres" alt="Database" />
-  
-  <br/><br/>
   
   <p><b>Server & Deployment</b></p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Server & Deployment" />
@@ -40,5 +32,5 @@
 <br/>
 
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqilahdaffa8&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E)](https://github.com/aqilahdaffa8)
+  <img src="https://github-readme-stats.vercel.app/api?username=aqilahdaffa8&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E" alt="GitHub Stats" />
 </div>
